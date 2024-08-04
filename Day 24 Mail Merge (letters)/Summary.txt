@@ -1,0 +1,2 @@
+This day i have done the project reading and writing files from the input and output folder
+here iam writing the same template letter to differnt people

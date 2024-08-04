@@ -1,0 +1,5 @@
+Now developed pong game
+#->First i created a shape of paddles one for left and right and move the peddles left and right
+#->Then create a ball and make bounceaf the top and down with y axis
+#->then if it hit paddles then bounce opposite direction left and right x axis
+#->if hit walls then score other opponent
